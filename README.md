@@ -1,1 +1,1 @@
-# psql-express-react-admin-dashboard
+# react-fullstack-admin-dashboard
